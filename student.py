@@ -9,6 +9,6 @@ class student:
         print(f"My student id is {self.id}")
         print(f"My score is {self.marks}")
 
-Participant = student("Marvin", "123AB", 20)
+participant = student("Marvin", "123AB", 20)
 
-Participant.introduce()
+participant.introduce()
